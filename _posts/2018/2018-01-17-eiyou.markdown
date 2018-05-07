@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "栄養"
 date: "2018-01-17 01:58"
 ---

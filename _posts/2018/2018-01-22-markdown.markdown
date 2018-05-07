@@ -1,0 +1,18 @@
+---
+layout: "single"
+title: "markdown"
+date: "2018-01-22 22:15"
+categories: markdown
+---
+
+- [Qiita マークダウン記法 一覧表・チートシート](https://qiita.com/kamorits/items/6f342da395ad57468ae3)  
+時々みたい
+
+- [Markdown記法 サンプル集](https://qiita.com/tbpgr/items/989c6badefff69377da7)  
+時々みたい
+
+- [Atom をMarkdownエディタとして整備](https://qiita.com/kouichi-c-nakamura/items/5b04fb1a127aac8ba3b0)  
+AtomでMarkdown始める時に参考になりました。ありがとう。
+
+- [Atomテキストエディタのproject-managerパッケージの使用方法 【登録＆呼び出し編】](http://creating-homepage.com/archives/1219)  
+jekyll使いで普段気軽に使いたいので、パッケージとして記事を管理したかったので参考になりました。ありがとう。

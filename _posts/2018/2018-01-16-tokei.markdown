@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "時間を置いて"
 date: "2018-01-16 00:27"
 ---

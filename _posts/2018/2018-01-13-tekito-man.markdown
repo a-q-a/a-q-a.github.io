@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "tekito-man"
 date: "2018-01-13 15:27"
 ---

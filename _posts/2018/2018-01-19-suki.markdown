@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "好き"
 date: "2018-01-19 19:36"
 ---

@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "put-sort-forward"
 date: "2018-01-12 01:18"
 ---

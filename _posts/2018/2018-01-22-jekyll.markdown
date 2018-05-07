@@ -1,0 +1,53 @@
+---
+layout: "single"
+title: "jekyll"
+date: "2018-01-22 09:28"
+categories: jekyll
+---
+
+git分からない。
+jekyllの導入から参考になったサイトをまとめる？雑マージ！  
+解説や説明をしてくれた人たちに感謝！ありがとう！
+
+私は、ここにリンクを貼って、自分のブラウザのブックマークから消します。  
+リリース！成功すら手放そう。未知には無垢でいたい。
+
+## jekyll導入　無知からの
+
+- [jekyll英語本家](https://jekyllrb.com)  
+できれば、ブラウザにgoogle翻訳のプラグインを入れて訳しながら読んでいくととてもよくわかります。  
+google chromeには翻訳が標準装備されてるのでオススメです。
+
+- [jekelltips](http://jekylltips-ja.github.io)  
+とてもわかりやすい。git無知でも優しさが伝わってきました。  
+jekyll serve コマンドを発行してローカルで実行するところまでは、このサイトが一番わかりやすい。  
+正直、優しさが伝わってきます。例えるなら雪が降る日のコンソメスープ！
+
+- [jekyll日本語公式](https://jekyllrb-ja.github.io)  
+黙読して、内容は気持ちでふんわり感じよう。そう、感じよう。  
+
+## テーマ
+
+- [jekyllthemes.org](http://jekyllthemes.org)  
+jekyllには多くのテーマがありカスタマイズも自由自在でっさ。
+いろいろ試して遊ぼう。
+
+- [jekyll/minima](https://github.com/jekyll/minima)
+jekyll new コマンドを発行すると初期設定で適応されるテーマ。それがminima
+
+- [Minimal Mistakes テーマではじめる Github Pages with Jekyll](http://k11i.biz/blog/2016/08/11/starting-jekyll-with-Minimal-Mistakes/)
+jekyll導入の説明もかねて、詳しく説明されている記事。ありがとう！
+
+## 静的サイトジェネレーター
+
+- [awe-some.net 2017年注目の「静的サイトジェネレーター」を３つ紹介します。](https://awe-some.net/2017/01/statatic-site-generator/)  
+jekyllは静的サイトジェネレーターの古典  
+他にもjekyllと同じようにマークダウンファイルからhtmlを生成してくれる仲間たちがいっぱい開発されているようです。それぞれ個性があるので、面白そうだー
+
+## githubpages
+- [jekyll + GitHub Pagesを使って無料でブログサイトを作る](http://j-caw.co.jp/blog/?p=1615)  
+わかりやすかったです！ありがとう！
+
+## 使っていたらエラー出た
+- [RubyGem で "Unresolved specs" の警告が出た時の対処法](http://toufuegg.hatenablog.com/entry/2013/05/27/RubyGem_で_"Unresolved_specs"_の警告が出た時の対処法)  
+この記事で解決できました。ありがとう！

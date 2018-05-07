@@ -1,0 +1,33 @@
+---
+layout: "single"
+title: "2018-04-07 update 2"
+date: "2018-04-07 12:12"
+---
+## 祈り
+ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
+
+## update
+- 私が読めればそれでいい。私と神との関係だ。
+- ありがとう。
+
+- ### jekyllテーマ変更
+  - 参考にして、少し進みました。ありがとう。
+  - コマンド　bundle exec jekyll serve で　bundle exec の意味をしらべた〜。
+    - [bundler、bundle execについて　※自分用メモ - Qiita](https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8)
+  - こまんど実行時に出る警告がなんとなく、理解できました。
+  - `Build Warning: Layout 'post' requested in _posts/2018/2018-01-11-omoituki.markdown does not exist.`
+  - 今までminimaで使っていた、各記事の頭の所に書いてある日付とテンプレートの設定の書き方が、minimal mistake では別の書き方が必要なのか。と予測できた。なるほどーふーん、ありがたいねー♪
+  - [Layouts - Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)
+  - ここにページレイアウトの記述について書いてあった！ありがたい
+  - 次は、複数ページの文字置換をどうしよう、atomでできるっしょ。
+
+- ### Heroku Wordpress
+  - Heroku を利用してWordpressを扱ってみる。
+
+
+## 引用
+ありがとうございます。  
+皆さんの情報の存在を知れて、また一つ更新できました。  
+ありがとう。
+
+- [bundler、bundle execについて　※自分用メモ - Qiita](https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8)

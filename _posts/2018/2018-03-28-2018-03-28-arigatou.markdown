@@ -1,0 +1,33 @@
+---
+layout: "single"
+title: "2018-03-28 arigatou"
+date: "2018-03-28 10:38"
+---
+
+OS X El Capitan
+から
+macOS High Sierra
+にアップグレードしたら、システム終了や再起動のメッセージが英語になっていました。
+
+以下の記事を参考にしてやったら治りました。
+ありがとうございました〜！助かった〜♪
+
+[Macのログイン画面の言語が英語になった時の対処法](http://itea40.jp/technic/mac-troubles/how-to-change-language-used-login-screen-mac/)
+
+手順のおさらい
+1. ターミナルを起動する。
+2. sudo languagesetup と入力。
+3. 「Enter」キーを押す。
+4. Mac起動時に使っているパスワードを入力。
+5. 「Enter」キーを押す。
+6. 6 を入力。
+7. 「Enter」キーを押す。
+8. exit
+9. Macを再起動する。
+
+これで治りました。
+ちなみに、Macを再起動させるときに出ていたメッセージは英語でした。
+再起動した後に、システム終了の確認のメッセージは日本語に直っていました。
+
+いやーよかった。
+[トリゾー](https://twitter.com/torizo)さんに感謝！ありがとう！

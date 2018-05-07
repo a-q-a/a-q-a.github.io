@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "逆にね"
 date: "2018-01-17 21:03"
 ---

@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "今日の収穫"
 date: "2018-01-18 02:35"
 ---

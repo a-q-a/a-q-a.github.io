@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "もっとこい！"
 date: "2018-01-20 15:32"
 ---

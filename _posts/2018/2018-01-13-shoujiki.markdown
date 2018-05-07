@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "shoujiki"
 date: "2018-01-13 16:31"
 ---

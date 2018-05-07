@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "日本語と仕事"
 date: "2018-01-17 03:16"
 ---

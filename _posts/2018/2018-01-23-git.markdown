@@ -1,0 +1,44 @@
+---
+layout: "single"
+title: "git"
+date: "2018-01-23 23:18"
+categories: git
+---
+
+## gitってなんじゃい？
+- [macでgit使いになるために抑えておきたいコマンド（基礎編）](https://qiita.com/Yama-to/items/25b87e7089bc4803a538)   
+linuxコマンドの解説も挟みつつ、ターミナルでgitの使い方を紹介してくれてる。ありがとう！
+
+- [これからGit を始めてみようという人のための使い方と入門フロー](http://commte.net/blog/archives/5251)  
+ざっくりgitの全体像を説明してくださってる。ありがとう！
+
+- [Git がわからなくても Github を利用しよう](http://blog.eiel.info/blog/2013/02/06/how-to-use-github/)  
+いいこと書いてありますね！ありがとう！
+
+## 手を動かして慣れたいんだよ！
+- [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)  
+指示に従い擬似ターミナルにコマンドを入力すると、なんとなくリズムがわかってくる。
+全部英語なので、これもgoogle翻訳を利用するとニュアンスで理解できる。ありがとう！
+
+## リモートリポジトリ
+- [github.com](https://github.com)  
+多分、何かにつけgithubは出てくる。
+基本的にすべて英語で書かれている。google翻訳を使えばニュアンスでつかめる。WebブラウザをChromeにしておけば、標準で翻訳機能がついているので、ガンガン駆使いていきたい。
+無料で公開リポジトリが作れる。ありがとう！
+
+- [bitbucket](https://bitbucket.org)  
+無料で非公開リポジトリが作れる。内緒で作りたいものはこっちで管理しよう。ありがとう！
+
+## diff ソースの差分を見たい時に
+- [Macのテキスト文書比較（diff）ソフト](http://mac.flatsystems.net/data/archives/52.html)  
+
+## コマンドよりもわかりやすく使いたいよ　GUI
+- [最強のGitフロントエンドはForkかもしれない](http://takezoe.hatenablog.com/entry/2017/08/31/102046)  
+forkをおすすめしている記事だ。ありがとう！
+
+## .gitignore ソースの管理から除外する
+- [Git .gitignoreの仕様詳解](https://qiita.com/anqooqie/items/110957797b3d5280c44f)  
+一発目にこの記事を読んで、よくわかりました！ありがとう！
+
+- [Git: バージョン管理の対象から外したいファイルを「.gitignore」に記述する](http://sutara79.hatenablog.com/entry/2015/07/21/115842)  
+jekyllで_siteディレクトリを除外するのに使いました。めっちゃわかりやすかったです。ありがとう！
