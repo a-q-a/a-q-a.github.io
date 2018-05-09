@@ -1,0 +1,24 @@
+---
+layout: "single"
+title: "2018-05-08-update"
+date: "2018-05-08"
+category: update
+tag: fmfm
+---
+
+- [x] google analytics　設定変更
+カテゴリー毎の一覧ページ作成
+
+- [ ] google place api
+- [x] porker 登録
+
+アダルトサイト、ホスティング
+
+- [x] a-q-a pages/themes に移行
+
+- [ ] 著作・運営
+自分のプロフィールを掲載して、その流れで、寄付、入金について書いていこう。
+
+- [ ] [minimal mistakes jekyll collection](https://mmistakes.github.io/minimal-mistakes/docs/collections/)
+コレクションについて試してみましょ
+- [ ]
