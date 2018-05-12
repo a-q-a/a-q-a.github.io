@@ -3,8 +3,14 @@ layout: "single"
 title: "2018-05-08-update"
 date: "2018-05-08"
 category: update
-tag: fmfm
+tag: a-q-a
 ---
+## 祈り
+ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
+
+## update
+- 私が読めればそれでいい。私と神との関係だ。
+- ありがとう。
 
 - [x] google analytics　設定変更
 カテゴリー毎の一覧ページ作成
@@ -22,3 +28,8 @@ tag: fmfm
 - [ ] [minimal mistakes jekyll collection](https://mmistakes.github.io/minimal-mistakes/docs/collections/)
 コレクションについて試してみましょ
 - [ ]
+
+## 引用
+ありがとうございます。
+皆さんの情報の存在を知れて、また一つ更新できました。
+ありがとう。

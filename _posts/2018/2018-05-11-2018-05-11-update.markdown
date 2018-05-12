@@ -1,0 +1,51 @@
+---
+layout: "single"
+title: "2018-05-11-update"
+date: "2018-05-11"
+category: update
+tag: a-q-a
+---
+## 祈り
+ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
+
+## update
+- 私が読めればそれでいい。私と神との関係だ。
+- ありがとう。
+
+### jekyll
+- google analyticsが機能しているか確認した。
+  - 大丈夫、機能している。よかったー、ありがと！
+- サーチコンソールの設定を変更。
+  - OK、サイトマップの送信も完了しているし大丈夫でしょう。
+
+### restgo
+- mac mongoDB
+  - [HomebrewでMacにMongoDBをインストールした時のメモ - Qiita](https://qiita.com/Frog_woman/items/f8a70286c7f1c4d5fc02)
+  - [Mongodbの使い方 - Qiita](https://qiita.com/takap235711/items/259ddc85d5a035f23968)
+
+- mongoDB 薄い本
+  - [MongoDBの薄い本(The Little MongoDB Book) - cuspy diary](http://www.cuspy.org/diary/2012-04-17/)
+
+- restgo の処理順をざっくり
+  1. google places api で試しに「春日部」の範囲で「飲食店」でお店一覧を検索する。
+  2. 検索結果をローカルのmongoDBに格納する。
+  3. mongoDBからrubyで、markdown形式で書き出す。
+  4. jekyllでhtmlを生成する。
+  5. htmlファイル群をアップロード。
+  6. ブラウザから検索する。
+    - [Algoliaを利用してサイト内検索機能を実装する WEB EGG](https://blog.leko.jp/post/implement-site-search-with-algolia/)
+
+### devdoc
+- devdoc
+  - あれっす
+
+
+## 引用
+ありがとうございます。
+皆さんの情報の存在を知れて、また一つ更新できました。
+ありがとう。
+
+- [HomebrewでMacにMongoDBをインストールした時のメモ - Qiita](https://qiita.com/Frog_woman/items/f8a70286c7f1c4d5fc02)
+- [Mongodbの使い方 - Qiita](https://qiita.com/takap235711/items/259ddc85d5a035f23968)
+
+- [MongoDBの薄い本(The Little MongoDB Book) - cuspy diary](http://www.cuspy.org/diary/2012-04-17/)
