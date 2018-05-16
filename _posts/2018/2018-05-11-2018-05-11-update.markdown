@@ -35,7 +35,7 @@ tag: a-q-a
   6. ブラウザから検索する。
     - [Algoliaを利用してサイト内検索機能を実装する WEB EGG](https://blog.leko.jp/post/implement-site-search-with-algolia/)
 
-### devdoc
+### refjp
 - devdoc
   - あれっす
 

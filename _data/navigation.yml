@@ -16,3 +16,7 @@ main:
     url: /serene/
   - title: "themes"
     url: /themes/
+  - title: "restgo"
+    url: /restgo/restgo-index/
+  - title: "Terms and Privacy Policy"
+    url: /terms/   

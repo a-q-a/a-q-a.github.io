@@ -15,7 +15,7 @@ locale                   : "ja-JP"
 title                    : "a-q-a"
 title_separator          : "-"
 name                     : "masaki"
-description              : "An amazing website."
+description              : "A letter for you. I LOVE YOU."
 url                      : https://a-q-a.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "a-q-a/a-q-a.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -71,9 +71,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "masaki_aqa"
 facebook:
-  username               :
+  username               : "masaki.aqa"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -104,7 +104,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "masaki.aqa"
   foursquare       :
   github           : "a-q-a"
   gitlab           :
@@ -118,7 +118,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "masaki_aqa"
   vine             :
   weibo            :
   xing             :
@@ -250,19 +250,33 @@ compress_html:
 
 # Collections
 collections:
-  docs:
+  # docs:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # recipes:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # pets:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  restgo:
     output: true
     permalink: /:collection/:path/
-  recipes:
+  refjp:
     output: true
     permalink: /:collection/:path/
-  pets:
+  comap:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  adepo:
     output: true
     permalink: /:collection/:path/
-
+  bsas:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -286,40 +300,96 @@ defaults:
 
   # collections
   # _docs
+  # - scope:
+  #     path: ""
+  #     type: docs
+  #   values:
+  #     layout: single
+  #     read_time: false
+  #     author_profile: false
+  #     share: false
+  #     comments: false
+  #     sidebar:
+  #       nav: "docs"
+  # _recipes
+  # - scope:
+  #     path: ""
+  #     type: recipes
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # _pets
+  # - scope:
+  #     path: ""
+  #     type: pets
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: true
+  # _restgo
   - scope:
       path: ""
-      type: docs
+      type: restgo
     values:
       layout: single
       read_time: false
       author_profile: false
-      share: false
+      share: true
       comments: false
       sidebar:
-        nav: "docs"
-  # _recipes
+        nav: "restgo"
   - scope:
       path: ""
-      type: recipes
+      type: refjp
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
+      read_time: false
       author_profile: false
       share: true
+      comments: false
+      sidebar:
+        nav: "refjp"
+  - scope:
+      path: ""
+      type: comap
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
+      sidebar:
+        nav: "comap"
+  - scope:
+      path: ""
+      type: adepo
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
+      sidebar:
+        nav: "adepo"
+  - scope:
+      path: ""
+      type: bsas
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
+      sidebar:
+        nav: "bsas"

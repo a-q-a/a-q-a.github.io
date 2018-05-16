@@ -2,7 +2,6 @@
 layout: single
 title: Serene
 permalink: /serene/
-author_profile: true
 ---
 
 静寂な、穏やかな、平和な
