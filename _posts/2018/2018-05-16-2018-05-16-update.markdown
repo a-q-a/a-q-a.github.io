@@ -23,4 +23,4 @@ tag: a-q-a
 皆さんの情報の存在を知れて、また一つ更新できました。
 ありがとう。
 
-- [Font Awesome Iconsがなぜか表示されない…version更新してる？解決策紹介 【Stinger5】 | A-key function　大学生が始めるべきネットビジネス起業](https://akeyfn.xyz/sitesakusei/font-awesome-icons-version/)
+- [Font Awesome Iconsがなぜか表示されない…version更新してる？解決策紹介 【Stinger5】 A-key function　大学生が始めるべきネットビジネス起業](https://akeyfn.xyz/sitesakusei/font-awesome-icons-version/)

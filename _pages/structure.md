@@ -37,4 +37,5 @@ GitHub Pages
 [GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)
 
 参考・引用
-[K's website](https://www.treetop.to/)
+- [K's website](https://www.treetop.to/)
+- [Minimal Mistakes テーマではじめる Github Pages with Jekyll - k11i.biz](https://k11i.biz/blog/2016/08/11/starting-jekyll-with-minimal-mistakes/)
