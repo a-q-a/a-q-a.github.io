@@ -271,10 +271,13 @@ collections:
   comap:
     output: true
     permalink: /:collection/:path/
-  adepo:
+  bsas:
     output: true
     permalink: /:collection/:path/
-  bsas:
+  report:
+    output: true
+    permalink: /:collection/:path/
+  letter:
     output: true
     permalink: /:collection/:path/
 # Defaults
@@ -371,17 +374,7 @@ defaults:
       comments: false
       sidebar:
         nav: "comap"
-  - scope:
-      path: ""
-      type: adepo
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: true
-      comments: false
-      sidebar:
-        nav: "adepo"
+
   - scope:
       path: ""
       type: bsas
@@ -393,3 +386,27 @@ defaults:
       comments: false
       sidebar:
         nav: "bsas"
+
+  - scope:
+      path: ""
+      type: report
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
+      sidebar:
+        nav: "report"
+
+  - scope:
+      path: ""
+      type: letter
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
+      sidebar:
+        nav: "letter"
