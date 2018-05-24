@@ -14,6 +14,12 @@ tag: a-q-a
 - ありがとう。
 
 ## Jekyll
+- カテゴリーとタブのアーカイブページが表示されるように編集
+  - [Upgrading - Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/upgrading/)
+  - やったーー！！できたぞーーー！！
+- エラー潰し
+  - [Jekyll Theme - K’s website](https://www.treetop.to/githubpages/jekyll-theme/)
+  - ありがとうございまーーーーーーーす！やったー！！bundle exec jekyll serve して出る黄色い警告が消えたー！！気持ちいいーーーーーー！！
 ## restgo
 ## refjp
 ## comap
@@ -23,4 +29,3 @@ tag: a-q-a
 ありがとうございます。
 皆さんの情報の存在を知れて、また一つ更新できました。
 ありがとう。
-
