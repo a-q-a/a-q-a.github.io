@@ -1,0 +1,41 @@
+---
+layout: "single"
+title: "2018-05-26-update"
+date: "2018-05-26"
+description: "a-q-a 2018-05-26-update"
+category: update
+tag: a-q-a
+---
+## 祈り
+ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
+
+## ありがとう
+素晴らしい！私は幸せだ！素晴らしい！成功している！
+
+## update
+- 私が読めればそれでいい。私と神との関係だ。
+- ありがとう。
+
+## Jekyll
+- 305 使いやすい書籍検索窓
+  - クライアントサイドの検索方法
+  - [検索 - Jekyll Tips](https://jekylltips-ja.github.io/tutorials/search/)
+  - [サイト内検索を自由にカスタマイズ！Jekyllに全文検索を追加する「jekyll-lunr-js-search」 - イソップブログ](http://blog.yuhiisk.com/archive/2016/01/03/jekyll-full-text-search.html)
+
+- 305 規約ページを参考にして編集したい。
+  - [Webサイトの利用規約（無料テンプレート・商用利用可）](http://kiyaku.jp/index.html)
+  - 広告掲載やの考えはeコマースとは違うので、そこは少し別の例を探ってみたい。
+## restgo
+## refjp
+## comap
+## bsas
+
+## 賞賛
+すごい！すばらしい！
+今日も好い日になった！
+明日はもっと好いい日になる！
+
+## 引用
+ありがとうございます。
+皆さんの情報の存在を知れて、また一つ更新できました。
+ありがとう。
