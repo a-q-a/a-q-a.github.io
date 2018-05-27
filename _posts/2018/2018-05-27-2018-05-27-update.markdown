@@ -1,0 +1,40 @@
+---
+layout: "single"
+title: "2018-05-27-update"
+date: "2018-05-27"
+description: "a-q-a 2018-05-27-update"
+category: update
+tag: a-q-a
+---
+## 祈り
+ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
+
+## ありがとう
+素晴らしい！私は幸せだ！素晴らしい！成功している！
+
+## update
+- 私が読めればそれでいい。私と神との関係だ。
+- ありがとう。
+
+## Report
+- HUGO 調査
+  - [HUGOでMarkdownを使った技術ドキュメントの管理が良い | karakaram-blog](https://www.karakaram.com/hugo-usage)
+  - hugo theme おすすめ で検索
+
+- GDPR
+  - gdpr 広告 で検索
+  - [【一問一答】「非パーソナライズド広告」とは？：GDPR施行に向けたGoogleの新広告 DIGIDAY［日本版］](https://digiday.jp/platforms/gdpr-curious-wtf-nonpersonalized-ads/)
+  - gdpr ガイドライン で検索
+  - [GDPR](https://www.ppc.go.jp/enforcement/cooperation/cooperation/GDPR/)
+  - [「EU一般データ保護規則（GDPR）」に関わる実務ハンドブック（第29条作業部会ガイドライン編）管理者および処理者の主導監督当局の特定（2018年2月） 調査レポート - 国・地域別に見る - ジェトロ](https://www.jetro.go.jp/world/reports/2018/01/9a90f1003bc16515.html)
+
+- pagesのところも整理した。
+## 賞賛
+すごい！すばらしい！
+今日も好い日になった！
+明日はもっと好いい日になる！
+
+## 引用
+ありがとうございます。
+皆さんの情報の存在を知れて、また一つ更新できました。
+ありがとう。

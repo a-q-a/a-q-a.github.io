@@ -294,6 +294,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      #　masaki edit (2018/05/26)
+      toc: true
+      toc_label: "On this page"
+      toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+
   # _pages
   - scope:
       path: "_pages"

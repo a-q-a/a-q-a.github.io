@@ -15,7 +15,9 @@ permalink: /themes/
 
     これを作ってる。
 - ### 更新情報
+  - [restgo-tracks](/restgo/restgo-tracks/)
 - ### 現在の形
+  - [restgo-index](/restgo/restgo-index/)
 
 ## 日本語訳されたプログラミング関連リファレンスまとめ refjp
 - [devdocs.io](https://devdocs.io/)  

@@ -12,11 +12,11 @@ main:
   #   url: /sitemap/
   - title: "about"
     url: /about/
-  - title: "serene"
-    url: /serene/
+  # - title: "serene"
+  #   url: /serene/
   - title: "themes"
     url: /themes/
-  - title: "restgo"
-    url: /restgo/restgo-index/
+  # - title: "restgo"
+  #   url: /restgo/restgo-index/
   - title: "Terms and Privacy Policy"
-    url: /terms/   
+    url: /terms/
