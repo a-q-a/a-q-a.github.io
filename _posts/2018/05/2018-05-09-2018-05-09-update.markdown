@@ -26,7 +26,6 @@ tag: a-q-a
   - aboutページに、自分の紹介を書こう。少しね。
   - multi-layerization　立体化する
   - restgo は立体化のテーマに近い
-  -
 
 ## 引用
 ありがとうございます。

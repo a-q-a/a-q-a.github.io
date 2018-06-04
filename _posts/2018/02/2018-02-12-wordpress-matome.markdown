@@ -10,7 +10,7 @@ categories: wordpress
 
 [ルートディレクトリにあるWordPressをサブディレクトリに移動する方法](http://blog.yuhiisk.com/archive/2016/08/09/change-wordpress-directory.html)
 
-[Gitコマンドを使った業務フローを大公開！ | 株式会社グランフェアズ](https://www.granfairs.com/blog/staff/workflow-with-git)
+[Gitコマンドを使った業務フローを大公開！   株式会社グランフェアズ](https://www.granfairs.com/blog/staff/workflow-with-git)
 
 [機能美(キノウビ)とは - コトバンク](https://kotobank.jp/word/%E6%A9%9F%E8%83%BD%E7%BE%8E-667020)
 
@@ -20,7 +20,7 @@ categories: wordpress
 
 [Rubyでフォルダ内のファイルをpost送信する - webエンジニアが子育てするらしいですよ](http://www.uosansatox.biz/entry/2017/12/28/123712)
 
-[サジェストとは？Google検索の基礎とキーワード抽出ツール7選｜ferret フェレット](https://ferret-plus.com/4257)
+[サジェストとは？Google検索の基礎とキーワード抽出ツール7選 ferret フェレット](https://ferret-plus.com/4257)
 
 [教科書LOD解説: 技術的側面から](https://www.slideshare.net/tmasao/20170618-textbook-lod)
 

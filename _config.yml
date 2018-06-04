@@ -72,9 +72,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "masaki_aqa"
+  username               :
 facebook:
-  username               : "masaki.aqa"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -97,17 +97,17 @@ author:
   name             : "masaki"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an artist."
-  location         : "Kasukabe-Saitama-Japan"
-  email            : "dimension.masaki@gmail.com"
+  location         :
+  email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "masaki.aqa"
+  facebook         :
   foursquare       :
-  github           : "a-q-a"
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
@@ -119,7 +119,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "masaki_aqa"
+  twitter          :
   vine             :
   weibo            :
   xing             :
