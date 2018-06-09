@@ -1,8 +1,8 @@
 ---
 layout: "single"
-title: "hnwk 1"
+title: "info struct"
 date: "2018-06-06"
-description: "hnwk 1"
+description: "info struct 情報を体系化したい"
 ---
 ## 祈り
 ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
@@ -19,8 +19,7 @@ description: "hnwk 1"
 
 ## Automation
 ### Crontab
-- [イケてるcrontabのいじり方](https://qiita.com/taichi_akippa/items/f950895fe3c7ea4b79ca)
-- [crontab -eで編集したcronのテストはどのように行えばよいのでしょうか？cron... - Yahoo!知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13138245408)
+
 
 ### Bash
 - [入力と出力 | UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me/input_output.html#%E3%83%AA%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%83%91%E3%82%A4%E3%83%97)

@@ -16,6 +16,9 @@ main:
   #   url: /serene/
   - title: "themes"
     url: /themes/
+    
+  - title: "000-wish"
+    url: /000-wish/
   # - title: "restgo"
   #   url: /restgo/restgo-index/
   - title: "Terms and Privacy Policy"

@@ -281,6 +281,9 @@ collections:
   letter:
     output: true
     permalink: /:collection/:path/
+  000-wish:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -308,44 +311,6 @@ defaults:
       author_profile: true
 
   # collections
-  # _docs
-  # - scope:
-  #     path: ""
-  #     type: docs
-  #   values:
-  #     layout: single
-  #     read_time: false
-  #     author_profile: false
-  #     share: false
-  #     comments: false
-  #     sidebar:
-  #       nav: "docs"
-  # _recipes
-  # - scope:
-  #     path: ""
-  #     type: recipes
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _pets
-  # - scope:
-  #     path: ""
-  #     type: pets
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: false
-  #     share: true
   # _restgo
   - scope:
       path: ""
@@ -416,3 +381,15 @@ defaults:
       comments: false
       sidebar:
         nav: "letter"
+
+  - scope:
+      path: ""
+      type: 000-wish
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
+      sidebar:
+        nav: "000-wish"

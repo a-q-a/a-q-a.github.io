@@ -1,8 +1,8 @@
 ---
 layout: "single"
-title: "hnwk テンプレ"
+title: ""
 date: "2018-06-06"
-description: "hnwk テンプレ"
+description: ""
 ---
 ## 祈り
 ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
