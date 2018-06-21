@@ -16,9 +16,11 @@ main:
   #   url: /serene/
   - title: "themes"
     url: /themes/
-    
-  - title: "000-wish"
-    url: /000-wish/
+
+  - title: "posts"
+    url: /posts/
+  - title: "posts-year-month"
+    url: /posts_year_month/
   # - title: "restgo"
   #   url: /restgo/restgo-index/
   - title: "Terms and Privacy Policy"
