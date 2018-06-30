@@ -1,0 +1,17 @@
+---
+layout: "single"
+title: "2018-06-22-update"
+date: "2018-06-22"
+description: "a-q-a 2018-06-22-update"
+category: update
+tag: a-q-a
+---
+
+## Letter
+気づいた！なるほど！アーカイブのリストを見ていて、あれですよ。
+タイトルがつまんない！これや！
+
+## Continue Point
+
+SHUT DOWN
+楽しかった♪:smile_cat:

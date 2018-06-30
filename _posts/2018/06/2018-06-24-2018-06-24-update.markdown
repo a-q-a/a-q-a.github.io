@@ -1,0 +1,29 @@
+---
+layout: "single"
+title: "2018-06-24-update"
+date: "2018-06-24"
+description: "a-q-a 2018-06-24-update"
+category: update
+tag: a-q-a
+---
+
+## Letter
+Jekyll と minimal mistakesは使っていて使いやすい。
+ただHugoのシンプルさも魅力的だ。
+
+Hugoを使いたい、新しいテーマを試そう。
+
+1site 1theme
+溜めない、流す。
+どんどん流す。
+
+theme initialize
+そうか、テーマにしたいことをリストにしよう。
+慈善
+地域の歴史調べ
+環境
+
+## Continue Point
+
+SHUT DOWN
+楽しかった♪:smile_cat:
