@@ -2,6 +2,7 @@
 layout: "single"
 title: "なぜに"
 date: "2018-01-17 22:19"
+published: false
 ---
 
 自分の仕事、自分の祈り、自分の行い

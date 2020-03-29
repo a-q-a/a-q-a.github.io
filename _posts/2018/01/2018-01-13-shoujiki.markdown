@@ -2,6 +2,7 @@
 layout: "single"
 title: "shoujiki"
 date: "2018-01-13 16:31"
+published: false
 ---
 
 正直さ、あーホームーページ作って公開してみたいなーと思う時

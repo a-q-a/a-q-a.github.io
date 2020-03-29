@@ -2,6 +2,7 @@
 layout: "single"
 title: "無力"
 date: "2018-01-17 01:38"
+published: false
 ---
 
 無念無想、無心、無力  

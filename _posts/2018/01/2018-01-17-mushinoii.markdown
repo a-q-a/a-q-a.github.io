@@ -2,6 +2,7 @@
 layout: "single"
 title: "虫のいい話"
 date: "2018-01-17 01:58"
+published: false
 ---
 
 虫のいい話は警戒するものだ。

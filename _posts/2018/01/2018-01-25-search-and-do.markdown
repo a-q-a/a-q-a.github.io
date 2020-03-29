@@ -2,6 +2,7 @@
 layout: "single"
 title: "search and do"
 date: "2018-01-25 21:46"
+published: false
 ---
 
 調査で手を動かす。

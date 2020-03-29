@@ -2,9 +2,11 @@
 layout: "single"
 title: "2018-08-29-update"
 date: "2018-08-29"
+last_modified_at: "2019-11-03 11:33:59"
 description: "a-q-a 2018-08-29-update"
 category: update
 tag: a-q-a
+published: false
 ---
 
 ## Letter

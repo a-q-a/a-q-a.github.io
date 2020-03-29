@@ -2,6 +2,7 @@
 layout: "single"
 title: "ジレンマ"
 date: "2018-01-17 23:43"
+published: false
 ---
 
 鳥が先が卵が先か。

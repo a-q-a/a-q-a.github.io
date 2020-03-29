@@ -2,6 +2,7 @@
 layout: "single"
 title: "日本語と仕事"
 date: "2018-01-17 03:16"
+published: false
 ---
 
 日本語と、日本人的仕事の速度は幅があると思う。

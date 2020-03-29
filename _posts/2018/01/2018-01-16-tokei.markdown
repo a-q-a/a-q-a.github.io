@@ -2,6 +2,7 @@
 layout: "single"
 title: "時間を置いて"
 date: "2018-01-16 00:27"
+published: false
 ---
 
 置き時計を伏せて、時間を気にせずにお皿を洗ったら

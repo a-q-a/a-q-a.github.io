@@ -2,6 +2,7 @@
 layout: "single"
 title: "進歩的"
 date: "2018-01-18 00:14"
+published: false
 ---
 
 肯定感

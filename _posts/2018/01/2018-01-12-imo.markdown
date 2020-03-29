@@ -2,6 +2,7 @@
 layout: "single"
 title: "imo"
 date: "2018-01-12 00:18"
+published: false
 ---
 
 いもを食べるとお腹が空いた。  

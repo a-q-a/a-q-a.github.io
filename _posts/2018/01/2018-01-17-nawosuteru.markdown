@@ -2,6 +2,7 @@
 layout: "single"
 title: "名を捨てる"
 date: "2018-01-17 03:04"
+published: false
 ---
 
 文章を書きたいのなら、文章に冠する名前を捨てよう。

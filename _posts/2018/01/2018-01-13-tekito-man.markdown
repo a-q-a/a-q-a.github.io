@@ -2,6 +2,7 @@
 layout: "single"
 title: "tekito-man"
 date: "2018-01-13 15:27"
+published: false
 ---
 テキトーマン
 喫茶店だなー

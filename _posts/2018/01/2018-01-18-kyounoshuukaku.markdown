@@ -2,6 +2,7 @@
 layout: "single"
 title: "今日の収穫"
 date: "2018-01-18 02:35"
+published: false
 ---
 
 coda2のftp機能で差分検知してアップロードしてくれないかと、虫のいいことを考えていた。
