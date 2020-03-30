@@ -1,0 +1,69 @@
+---
+layout: "single"
+title: "2018-05-26-update"
+date: "2018-05-26"
+description: "a-q-a 2018-05-26-update"
+category: update
+tag: a-q-a
+published: false
+---
+## 祈り
+ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
+
+## ありがとう
+素晴らしい！私は幸せだ！素晴らしい！成功している！
+
+## update
+- 私が読めればそれでいい。私と神との関係だ。
+- ありがとう。
+
+## Report
+- 305 使いやすい書籍検索窓
+  - クライアントサイドの検索方法
+  - [検索 - Jekyll Tips](https://jekylltips-ja.github.io/tutorials/search/)
+  - [サイト内検索を自由にカスタマイズ！Jekyllに全文検索を追加する「jekyll-lunr-js-search」 - イソップブログ](http://blog.yuhiisk.com/archive/2016/01/03/jekyll-full-text-search.html)
+
+- 305 規約ページを参考にして編集したい。
+  - [Webサイトの利用規約（無料テンプレート・商用利用可）](http://kiyaku.jp/index.html)
+    - 広告掲載やの考えはeコマースとは違うので、そこは少し別の例を探ってみたい。
+- 305 google adsense のやつ
+  - head内に、確認のスクリプトを貼り付けて承認待ち
+- 305 ドメイン取得
+  - スタードメインか、エックスドメインか
+  - [大手ドメイン業者『６社』を比較。料金から管理画面などの項目をまとめました。](http://www.domain-server-study.com/hikaku.html)
+  - [お名前.com、スター、ムームー、エックスドメインを徹底比較 – 自由人宣言](http://mini-rich.com/domain-hikaku/)
+  - そっか、エックスドメインはスタードメインのリセラーだから、料金体系が似てるのか。
+  - じゃあ、スタードメインでやってみっか。けってー。よかったースッキリしたw
+- 305 Ruby gem markdown, Ruby mongoDB 連携 調査
+  - Rubyとmarkdown　調査
+    - パーサー（マークダウンの構文を解析してhtml表示する）
+    - エディター(markdownで入力してプレビューする)のrailsアプリの例が多かった。
+      - 結果として、参考になった。ありがとう。
+  - Ruby mongoDB 連携　調査
+    - [Ruby MongoDBに接続する - 1.21 jigowatts](http://sh-yoshida.hatenablog.com/entry/2016/08/21/172342)
+    - [Wokashi: MongoDBをRubyから使う](http://mironal-memo.blogspot.jp/2012/07/mongodb-ruby.html)
+      - なるほど、RubyでmongoDBを操作するようにコードを体系的に作っていけばいいか。
+      - 心地よい参考になった！ありがとう！
+- 305 一冊の本の情報、それから取る行動、その関連、リンク
+  - [themes](/themes/)に追記
+- 305 テーマ追加
+  - 書籍改題版検索、萌え
+    - [themes](/themes/)に追記
+- レポートは、リレーションファースト、リンクを貼って、ありがとうを書きたいにゃ
+  - pgbtn.shの雛形を変えた。
+
+- 今日はリストを作って、一つずつこなしていった。
+  - 並んでることを、そのまま調べて、まとめて。
+  - あれこれ考えないで、ザーッと流れるようにできるのはこんなに気持ちいもんなんだな。
+  - いい気づきになった。ありがとう。
+  - いいんだ、いいんだ、これだ、とすごい肯定的な気分で心地よかった。
+
+## 賞賛
+すごい！すばらしい！
+今日も好い日になった！
+明日はもっと好いい日になる！
+
+## 引用
+ありがとうございます。
+皆さんの情報の存在を知れて、また一つ更新できました。
+ありがとう。

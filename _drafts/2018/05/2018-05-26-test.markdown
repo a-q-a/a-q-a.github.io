@@ -1,0 +1,23 @@
+---
+layout: "single"
+title: "test"
+date: "2018-05-26 23:17"
+published: false
+---
+
+## notice 使い方
+
+なななwなるほど、改行するのかw
+{: .notice}
+すげー表現の幅がひろがったぞいw
+
+- [Markup: HTML Tags and Formatting - Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+- [Post: Notice - Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/post%20formats/post-notice/)
+
+
+## コードハイライト
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}

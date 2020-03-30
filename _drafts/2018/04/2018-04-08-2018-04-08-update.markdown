@@ -1,0 +1,34 @@
+---
+layout: "single"
+title: "2018-04-08 update"
+date: "2018-04-08 13:31"
+published: false
+---
+## 祈り
+ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
+
+## update
+- 私が読めればそれでいい。私と神との関係だ。
+- ありがとう。
+
+- ### jekyllテーマ変更
+  - 参考にして、少し進みました。ありがとう。
+  - 本番環境と同じように表示されるようにコマンドを実行してみて、スタイルシートが適用されないのはなぜ？
+  - [GTUGGirlsJekyll/04_deploy.md at master · yanzm/GTUGGirlsJekyll · GitHub](https://github.com/yanzm/GTUGGirlsJekyll/blob/master/docs/04_deploy.md)
+  - なんとなくわかりました、コマンドに追加でベースURLとかの値を反映しないで立ち上げる引数を渡してあげる感じか。なるほど。ありがとう。
+  - [Minimal Mistakes テーマではじめる Github Pages with Jekyll - k11i.biz](https://k11i.biz/blog/2016/08/11/starting-jekyll-with-minimal-mistakes/)
+  - そっか、別にあれか、jekyll serveにこだわらず、jekyll buildして、ローカルのapacheなりnginxなりにおいて確認するのもありか！ほぇーなるほどーありがてー。
+  - 
+
+
+
+- ### Heroku Wordpress
+  - Heroku を利用してWordpressを扱ってみる。
+
+
+## 引用
+ありがとうございます。  
+皆さんの情報の存在を知れて、また一つ更新できました。  
+ありがとう。
+
+- [bundler、bundle execについて　※自分用メモ - Qiita](https://qiita.com/dawn_628/items/1821d4eef22b9f45eea8)

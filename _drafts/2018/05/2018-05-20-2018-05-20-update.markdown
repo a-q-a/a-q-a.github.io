@@ -1,0 +1,75 @@
+---
+layout: "single"
+title: "2018-05-20-update"
+date: "2018-05-20"
+description: "a-q-a 2018-05-20-update"
+category: update
+tag: a-q-a
+published: false
+---
+## 祈り
+ありがとう、愛しています、祝福しています、癒しています、そのままでいてください。
+
+## update
+- 私が読めればそれでいい。私と神との関係だ。
+- ありがとう。
+
+- Jekyll update doc
+- weekly update to post SNS and other blog services
+
+- cooperate stream
+- book off API
+- karlil API
+  - TO HTML and amazon,rakuten affiliate
+  - How to search is after following
+  - parts redirect other ap services using
+  - no good is one taste
+  - libraly classification
+  - books information store local database
+  - write and update is forgetfulness and forgiveness
+  - forgetting is easiness
+  - man of letters
+  - that's easy :)
+  - fake and true
+
+- book off API
+  - use limit
+-----
+- result
+  - api nothing book off
+  - rakuten api bookoff information can get
+
+-----
+- 大量データの取得、更新
+  - 積ん読、一気読み
+  - ほしい物リストから、一気に検索、図書館で借りられるか。
+- 文庫版、改題版ある？
+
+接頭記号-国記号-出版者記号-書名記号
+
+ダイアー博士のスピリチュアル・ライフ―“運命を操る力”を手にする「7つの特別プログラム」
+ISBN-13: 978-4-8379-5659-4
+書籍-日本-三笠書房-この書籍の番号-チェックディジット
+
+
+ISBN-13: 978-4-8379-6584-8
+
+- [ISBNとは？ 「978」から始まるISBNコードの意味 - ブックオフオンラインコラム](http://pro.bookoffonline.co.jp/book-enjoy/books-trivia/20160408-isbn-mean.html)
+
+- [ISBN出版社番号＠夏貸文庫](http://www.natubunko.net/publisher.html)
+
+- book stacker
+  - テーマごとに分類して、仮積ん読しておける棚。
+- ブックインプレ　読書感想の引用を、Amazonや楽天のアソシエイトとカーリルで図書館の蔵書検索を
+  できるように細工できるはず。
+  
+## Jekyll
+## restgo
+## refjp
+## comap
+## bsas
+
+## 引用
+ありがとうございます。
+皆さんの情報の存在を知れて、また一つ更新できました。
+ありがとう。
